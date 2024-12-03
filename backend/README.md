@@ -6,7 +6,7 @@
 
 **Условий несколько:**
 - Используйте TypeScript, React
-- Любой state management (Redux, Effector, StateX, etc)
+- Любой state management (Redux, MobX, Recoil, etc)
 - NodeJS/Nest JS/PostgreSQL для серверной части.
 
 Макет по [ссылке](https://www.figma.com/design/LEI96zN7CQSNGOqMEBlhei/Test-full-stack?node-id=10529-44698&t=6CxKqjXzXt1D1hCB-1).
